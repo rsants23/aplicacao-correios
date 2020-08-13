@@ -60,7 +60,7 @@ Post
 *Resposta:*
 ```json
 {
-    "success":true
+    "success":true,
     data:[
         "id":1,
         "name":"Relógio",
@@ -68,7 +68,7 @@ Post
         "length":20,
         "height":2,
         "weight":1,
-    ]
+    ],
     "message": "Produtos criado com sucesso"
 }
 ```
@@ -100,7 +100,7 @@ Post
       "length": "20",
       "height": "2",
       "weight": "1"
-    }
+    }],
     "message": "Produtos recuperados com sucesso"
 }
 ```
@@ -152,7 +152,7 @@ Post
       "codeOrigin": "Pulseira",
       "codeDestiny": "20",
       "products_id": "20"
-    }
+    }],
     "message": "Pedidos recuperados com sucesso"
 }
 ```
@@ -177,7 +177,7 @@ Post
       "codeService": "04510",
       "time": "8",
       "value": "15,70"
-    }
+    }],
     "message": "Cotação feita com sucesso"
 }
 ```

@@ -27,7 +27,7 @@ O projeto é construido com uma aplicação em ReactJS para o Front-End e uma AP
 
 # Execução
 
-git clone https://github.com/ValdirJunior/seller-project.git
+git clone https://gitlab.com/vinimapelli/aplicacao-correios.git
 
 ## Front
 

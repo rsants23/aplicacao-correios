@@ -27,7 +27,7 @@ O projeto é construido com uma aplicação em ReactJS para o Front-End e uma AP
 
 # Execução
 
-git clone https://gitlab.com/vinimapelli/aplicacao-correios.git
+git clone git@gitlab.com:rsantos23/aplicacao-correios.git
 
 ## Front
 
